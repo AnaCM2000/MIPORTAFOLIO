@@ -1,6 +1,6 @@
 <div>
-    <h1>Proyectos, Empleos, Grupos en los que se ha trabajado </h1>
-    -He estado en conferencia sobre los dominios.<br>
+    <h1>Proyectos, Grupos,cursos, etc </h1>
+    -He estado en una conferencia sobre los dominios.<br>
     -Pertenezco a un grupo de sociedad de alumnos capitulo estudiantil (ORACLE).<br>
     -He tomado un curso sobre computacion basica.<br>
     -Tome un curso de bisulteria.<br>
